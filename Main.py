@@ -1,6 +1,5 @@
 from sync.SyncSeriesCommand import SyncSeriesCommand
 from client.GuyaClient import GuyaClient
-from model.Chapter import Chapter
 from logic.SeriesLogic import SeriesLogic
 
 if __name__ == "__main__":
